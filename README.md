@@ -11,3 +11,5 @@ Le jeu enregistrera automatiquement la partie en cours et la charger sur la plat
 Pour utiliser notre projet, veuillez cloner ce dépôt sur votre ordinateur local et installer les dépendances nécessaires en utilisant pip. Assurez-vous également de configurer une base de données MySQL pour stocker les scores.
 
 N'hésitez pas à nous contacter pour toute question ou problème rencontré lors de l'utilisation de notre projet. Nous espérons que vous apprécierez jouer à notre jeu !
+
+Lien de la vidéo de présentation : https://youtu.be/ezAePjnWf6U
