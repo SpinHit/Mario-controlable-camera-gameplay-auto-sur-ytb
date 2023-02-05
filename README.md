@@ -16,6 +16,7 @@ Le jeu enregistrera automatiquement la partie en cours et la charger sur la plat
 - OpenCV2
 - MySQL
 - Tiled
+- Youtube-API
 
 ## Installation
 Pour utiliser mon projet, veuillez cloner ce dépôt sur votre ordinateur local et installer les dépendances nécessaires en utilisant pip. Assurez-vous également de configurer une base de données MySQL pour stocker les scores.
